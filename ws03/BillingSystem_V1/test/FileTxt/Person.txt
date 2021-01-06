@@ -1,0 +1,15 @@
+name:bryan
+lastname:azuero
+address:san carlos de alangasi
+age:19
+*****************************
+name:juan
+lastname:valdez
+address:colonia villa hermosa
+age:18
+*****************************
+name:Kevin
+lastname:Andrade
+address:la merced
+age:17
+*****************************
